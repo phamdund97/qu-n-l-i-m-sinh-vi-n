@@ -16,4 +16,4 @@ Bước 3: Chạy thử với domain của bạn: http://domaincuaban.com
 Upload code vào htdocs và sửa file includes/config.php và admin-panel/config.php
 
 # Tác giả:
-Source code hoàn toàn được mình build hoàn toàn, bạn có thể dùng vào bất cứ việc gì nếu muốn. Xin cảm ơn!
+Source code hoàn toàn được mình build, bạn có thể dùng vào bất cứ việc gì nếu muốn. Xin cảm ơn!
