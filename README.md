@@ -4,7 +4,7 @@ Hệ thống bao gồm chức năng dành cho student và dành cho admin:
 Với admin: admin có thể xem danh sách sinh viên, thêm sinh viên, sửa sinh viên, xem môn học, thêm môn học, sửa môn học, xem điểm sinh viên, sửa điểm sinh viên, đổi mật khẩu. 
 Học sinh có thể xem thông tin, cập nhật thông tin, xem điểm môn học, thay đổi mật khẩu.
 
-Hệ thống được code bằng html css và php. Nếu đoạn code bị lỗi một số chỗ, hãy thử với tệp .zip ở trong.
+Hệ thống được code bằng html css và php, thêm một chút bootrap nữa nhé. Nếu đoạn code bị lỗi một số chỗ, hãy thử với tệp .zip ở trong.
 
 
 # Hướng dẫn cài đặt:
