@@ -1,2 +1,2 @@
-# qu-n-l-i-m-sinh-vi-n
+# quản-lí-điểm-sinh-vin
 Hệ thống quản lí điểm sinh viên 
